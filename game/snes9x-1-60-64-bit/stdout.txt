@@ -1,0 +1,10 @@
+Saving	config file	C:\Users\User\Downloads\snes9x-1-60-64-bit\snes9x.conf
+No ROM file header found.
+Map_LoROMMap
+"SUPER MARIOWORLD" [checksum ok] LoROM, 4Mbits, ROM+RAM+BAT, NTSC, SRAM:16Kbits, ID:____, CRC32:B19ED489
+Saving	config file	C:\Users\User\Downloads\snes9x-1-60-64-bit\snes9x.conf
+Saving	config file	C:\Users\User\Downloads\snes9x-1-60-64-bit\snes9x.conf
+Map_LoROMMap
+Saving	config file	C:\Users\User\Downloads\snes9x-1-60-64-bit\snes9x.conf
+Saving	config file	C:\Users\User\Downloads\snes9x-1-60-64-bit\snes9x.conf
+Saving	config file	C:\Users\User\Downloads\snes9x-1-60-64-bit\snes9x.conf
